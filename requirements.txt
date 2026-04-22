@@ -2,3 +2,4 @@ pandas
 numpy
 zoho-analytics-connector
 sqlalchemy
+psycopg2
