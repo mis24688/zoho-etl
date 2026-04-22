@@ -66,7 +66,7 @@ engine.connect()
 df.to_sql(
     'sample_table',
     con=engine,
-    if_exists='append',
+    if_exists='replace',
     index=False
 )
 print('Data Uploaded Sucessfully')
