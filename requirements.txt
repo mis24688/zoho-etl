@@ -1,0 +1,4 @@
+pandas
+numpy
+zoho-analytics-connector
+sqlalchemy
